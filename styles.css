@@ -4,7 +4,7 @@
 	background-color:#000000;
 	
 }
-.hello-accio{
+#hello-accio{
 	color:#ffffff;
 	margin-left:32px;
 	/* padding:30px; */
@@ -14,6 +14,6 @@
 	width:150px;
 }
 	
-#hello-accio{
+/* #hello-accio{
 	padding:30px;
-}
+} */
