@@ -7,11 +7,13 @@
 .hello-accio{
 	color:#ffffff;
 	margin-left:32px;
-	padding:30px;
+	/* padding:30px; */
 }
 #job{
 	height:150px;
 	width:150px;
 }
 	
+#hello-accio{
+	padding:30px;
 }
